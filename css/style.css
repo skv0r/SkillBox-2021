@@ -43,7 +43,7 @@ div.main-content {
 }
 .link-element {
   display: inline-block;
-  margin: 24px 49px 24px 49px;
+  padding: 24px 49px 24px 49px;
 }
 .link-element:not(:last-child) {
   margin-right: 25px;
