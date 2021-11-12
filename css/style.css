@@ -54,7 +54,7 @@ div.main-content {
   width: 1170px;
 }
 .paragraph {
-  margin-top: 0 auto;
+  margin-top: 0;
   margin-bottom: 40px;
   width: 872px;
 }
@@ -73,7 +73,11 @@ div.main-content {
   width: 692px;
   margin-bottom: 10px;
 }
-.tittle-1-2 {
+.header-two {
+  margin: 0 0 10px 0;
+}
+.header-three {
+  margin: 0 auto;
   margin-bottom: 10px;
 }
 .list-index {
