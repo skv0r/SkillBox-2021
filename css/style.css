@@ -54,9 +54,13 @@ div.main-content {
   width: 1170px;
 }
 .paragraph {
-  margin-top: 0;
+  margin-top: 0px;
   margin-bottom: 40px;
   width: 872px;
+}
+.box-grey-paragrath {
+  margin-bottom: 10px;
+  width: 692px;
 }
 .article-preview {
   margin: 0 0 40px 0;
@@ -68,10 +72,6 @@ div.main-content {
 }
 .box-grey:not(:last-child) {
   padding-bottom: 40px;
-}
-.parent .paragraph {
-  width: 692px;
-  margin-bottom: 10px;
 }
 .header-two {
   margin: 0 0 10px 0;
@@ -87,11 +87,10 @@ div.main-content {
   margin: 0 auto;
   padding-left: 15px;
 }
-.soloimg {
+.solo-img {
   margin-bottom: 40px;
 }
 .img-figure {
   display: inline-block;
-  margin: 0px 40px 0px 0px;
   width: 872px;
 }
