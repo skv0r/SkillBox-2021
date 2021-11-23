@@ -94,3 +94,8 @@ div.main-content {
   display: inline-block;
   width: 872px;
 }
+.fig-paragraph {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  width: 872px;
+}
