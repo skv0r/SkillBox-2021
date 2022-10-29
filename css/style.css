@@ -99,6 +99,7 @@ div.main-content {
 }
 
 .box-grey-paragrath {
+  margin-bottom: 0 auto;
   margin-bottom: 10px;
   width: 692px;
 }
@@ -177,12 +178,8 @@ div.main-content {
 }
 
 .fig-paragraph {
-  margin-top: 0px;
-  margin-bottom: 40px;
-  width: 872px;
-  border-width: 1px;
   border-top-width: 0;
-  border-style: solid;
+  border: 1px solid;
   color: #b6b6b6;
   padding-top: 19px;
   padding-bottom: 19px;
